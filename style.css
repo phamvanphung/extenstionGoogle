@@ -1,0 +1,53 @@
+html {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+body {
+    width: 100%;
+}
+
+#logo{
+    width: 100px;
+    height: 100px;
+    margin: 20px 0px 0px 45%;
+}
+
+.form-login{
+    width: 50%;
+    background-color: red;
+    margin-top: 50px;
+    margin-left: 25%;
+    padding-left: 10px;
+}
+#lbusername {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+}
+#fusername{
+    width: 60%;
+    height: 15px;
+    border: 1px black solid;
+    margin: 5px;
+    margin-right: 24%;
+}
+
+#lbPassword {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+}
+#fpassword{
+    width: 60%;
+    height: 15px;
+    border: 1px black solid;
+    margin: 5px;
+}
+
+#bttSubmit{
+    margin: 10px;
+    margin-left: 25%;
+    justify-content: center;
+}
+
+
